@@ -1,0 +1,10 @@
+# Never serve the credential file or shared includes directly.
+<FilesMatch "^(config\.php|config\.example\.php|db_connection\.php|form_helpers\.php)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>

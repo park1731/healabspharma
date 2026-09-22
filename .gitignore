@@ -1,0 +1,4 @@
+.DS_Store
+
+# Live database credentials — never commit. See healabspharma/backend/config.example.php.
+healabspharma/backend/config.php

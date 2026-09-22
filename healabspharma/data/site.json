@@ -1,0 +1,180 @@
+{
+  "company": {
+    "name": "Heal Labs",
+    "legal": "Healabs Pharmaceutical Pvt Ltd",
+    "tagline": "Caring for Wellness",
+    "blurb": "A Bengaluru-based pharmaceutical company delivering quality-assured medicines across anti-infectives, pain management, respiratory care, gastro and nutrition.",
+    "baseUrl": "https://healabspharma.com",
+    "foundedNote": "Set 'founded' back to a real year if you want 'since <year>' in the About heading."
+  },
+  "contact": {
+    "email": "healabspharma@gmail.com",
+    "phones": [
+      "+91 93078 45862",
+      "+91 99024 80853",
+      "+91 97413 13352"
+    ],
+    "whatsapp": "919307845862",
+    "address": {
+      "street": "Koppa Village, near Maruthi Medical, Jigani",
+      "locality": "Hulimangala, Anekal Taluk",
+      "region": "Karnataka",
+      "city": "Bengaluru",
+      "postalCode": "560105",
+      "country": "IN"
+    },
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.5461645604278!2d77.62451057510859!3d12.807943987492651!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae6b7fe7b5782f%3A0x15bb1f211946351c!2sHealabs%20Pharmaceutical%20PVT%20LTD!5e0!3m2!1sen!2sin!4v1730872024164!5m2!1sen!2sin",
+    "geo": {
+      "lat": 12.807944,
+      "lng": 77.624511
+    },
+    "openingHours": [
+      {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      {
+        "days": [
+          "Saturday"
+        ],
+        "opens": "09:00",
+        "closes": "12:00"
+      }
+    ]
+  },
+  "hours": [
+    {
+      "days": "Mon – Fri",
+      "time": "09:00 – 19:00"
+    },
+    {
+      "days": "Saturday",
+      "time": "09:00 – 12:00"
+    },
+    {
+      "days": "Sunday",
+      "time": "Closed"
+    }
+  ],
+  "hero": [
+    {
+      "image": "banner.jpeg",
+      "eyebrow": "Caring for Wellness",
+      "title": "Quality medicines, made accessible",
+      "lead": "Heal Labs formulates and distributes a trusted range of pharmaceuticals — from anti-infectives to nutraceuticals — for clinicians and families across India."
+    },
+    {
+      "image": "banner2.jpeg",
+      "eyebrow": "Our Range",
+      "title": "39 formulations across 5 therapeutic areas",
+      "lead": "Tablets, suspensions, syrups and injections developed to consistent standards and backed by clinical evidence."
+    },
+    {
+      "image": "banner3.jpeg",
+      "eyebrow": "Quality Assurance",
+      "title": "Standards you can prescribe with confidence",
+      "lead": "Every batch is manufactured at certified facilities and checked before it reaches a pharmacy shelf."
+    },
+    {
+      "image": "banner4.jpeg",
+      "eyebrow": "Partnership",
+      "title": "Working with clinicians and distributors",
+      "lead": "Reliable supply, responsive service and a team that answers the phone when you call."
+    }
+  ],
+  "trust": [
+    {
+      "icon": "shield",
+      "text": "Quality-assured formulations"
+    },
+    {
+      "icon": "truck",
+      "text": "Reliable nationwide supply"
+    },
+    {
+      "icon": "flask",
+      "text": "5 therapeutic categories"
+    },
+    {
+      "icon": "headset",
+      "text": "Direct line to our team"
+    }
+  ],
+  "stats": [
+    {
+      "n": 39,
+      "suffix": "+",
+      "label": "Formulations"
+    },
+    {
+      "n": 5,
+      "suffix": "",
+      "label": "Therapeutic areas"
+    },
+    {
+      "n": 6,
+      "suffix": "",
+      "label": "Dosage forms"
+    },
+    {
+      "n": 6,
+      "suffix": "",
+      "label": "Days a week we answer"
+    }
+  ],
+  "values": [
+    {
+      "icon": "shield",
+      "title": "Quality first",
+      "text": "Formulations produced at certified facilities, with batch-level checks before dispatch."
+    },
+    {
+      "icon": "heart",
+      "title": "Patient outcomes",
+      "text": "Products chosen for clinical relevance — pediatric suspensions, anti-infectives and pain relief that clinicians actually reach for."
+    },
+    {
+      "icon": "handshake",
+      "title": "Dependable partners",
+      "text": "Consistent availability and honest timelines for the pharmacies and distributors who rely on us."
+    },
+    {
+      "icon": "leaf",
+      "title": "Accessible care",
+      "text": "Affordable pricing so that essential medicine is within reach, wherever the patient lives."
+    }
+  ],
+  "about": {
+    "intro": "Heal Labs is a pharmaceutical company based in Bengaluru, dedicated to making quality healthcare accessible and convenient. We develop and distribute a broad range of medicines — ensuring essential healthcare products are always within reach.",
+    "mission": "To bridge the gap between patients and the medicines they need. We keep evolving — refining our formulations, our supply chain and our service so that quality treatment reaches more people, more reliably.",
+    "vision": "To transform healthcare accessibility and become a leading provider of reliable, innovative medical solutions — a future where everyone, regardless of location, can access life-saving and life-enhancing medicines."
+  },
+  "testimonials": [
+    {
+      "quote": "Heal Labs has been dependable for my practice. Supply is consistent and the pediatric suspensions are well tolerated.",
+      "name": "Dr. Ramesh K.",
+      "role": "General Physician, Bengaluru"
+    },
+    {
+      "quote": "Excellent support and timely delivery. When we need a restock at short notice, they follow through.",
+      "name": "Anita S.",
+      "role": "Pharmacy Owner"
+    },
+    {
+      "quote": "A wide, well-chosen range and reliable stock. They have become our go-to supplier for anti-infectives.",
+      "name": "Rajesh P.",
+      "role": "Distributor, Karnataka"
+    }
+  ],
+  "analytics": {
+    "ga4MeasurementId": "",
+    "googleSiteVerification": ""
+  }
+}

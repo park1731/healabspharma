@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /healabspharma/backend/
+Disallow: /healabspharma/build/
+Disallow: /healabspharma/data/
+
+Sitemap: https://healabspharma.com/sitemap.xml
