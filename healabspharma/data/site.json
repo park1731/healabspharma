@@ -63,32 +63,14 @@
       "time": "Closed"
     }
   ],
-  "hero": [
-    {
-      "image": "banner.jpeg",
-      "eyebrow": "Caring for Wellness",
-      "title": "Quality medicines, made accessible",
-      "lead": "Heal Labs formulates and distributes a trusted range of pharmaceuticals — from anti-infectives to nutraceuticals — for clinicians and families across India."
-    },
-    {
-      "image": "banner2.jpeg",
-      "eyebrow": "Our Range",
-      "title": "39 formulations across 5 therapeutic areas",
-      "lead": "Tablets, suspensions, syrups and injections developed to consistent standards and backed by clinical evidence."
-    },
-    {
-      "image": "banner3.jpeg",
-      "eyebrow": "Quality Assurance",
-      "title": "Standards you can prescribe with confidence",
-      "lead": "Every batch is manufactured at certified facilities and checked before it reaches a pharmacy shelf."
-    },
-    {
-      "image": "banner4.jpeg",
-      "eyebrow": "Partnership",
-      "title": "Working with clinicians and distributors",
-      "lead": "Reliable supply, responsive service and a team that answers the phone when you call."
-    }
-  ],
+  "hero": {
+    "eyebrow": "Bengaluru · Pharmaceutical formulations",
+    "title": "Quality medicines,",
+    "lead": "Heal Labs formulates and distributes a trusted range of pharmaceuticals — from anti-infectives to nutraceuticals — for clinicians, pharmacies and families across India.",
+    "image": "about2.jpeg",
+    "imageAlt": "A scientist in blue gloves pipetting samples into test tubes",
+    "titleAccent": "made accessible"
+  },
   "trust": [
     {
       "icon": "shield",
@@ -176,5 +158,81 @@
   "analytics": {
     "ga4MeasurementId": "",
     "googleSiteVerification": ""
-  }
+  },
+  "categories": [
+    {
+      "name": "Anti-Infectives",
+      "icon": "microbe",
+      "blurb": "Cephalosporins and amoxicillin–clavulanate combinations as tablets, dry syrups and injections."
+    },
+    {
+      "name": "Respiratory & Allergy",
+      "icon": "lungs",
+      "blurb": "Cough, cold and anti-allergy formulations, including paediatric syrups."
+    },
+    {
+      "name": "Pain & Fever",
+      "icon": "thermo",
+      "blurb": "Paracetamol, aceclofenac and mefenamic acid combinations for pain and inflammation."
+    },
+    {
+      "name": "Gastro & Anti-Emetics",
+      "icon": "stomach",
+      "blurb": "Pantoprazole, antacid gels and ondansetron for acidity, reflux and nausea."
+    },
+    {
+      "name": "Nutraceuticals",
+      "icon": "capsule",
+      "blurb": "Multivitamin, multimineral and neurotropic B-vitamin support."
+    }
+  ],
+  "process": [
+    {
+      "title": "Formulate",
+      "text": "Products chosen for clinical relevance — the combinations and paediatric strengths clinicians actually prescribe."
+    },
+    {
+      "title": "Manufacture",
+      "text": "Produced at certified manufacturing facilities to consistent, documented standards."
+    },
+    {
+      "title": "Check",
+      "text": "Batch-level checks before dispatch, so what reaches the shelf matches what was specified."
+    },
+    {
+      "title": "Supply",
+      "text": "Dependable availability and honest timelines for pharmacies and distributors."
+    }
+  ],
+  "molecules": [
+    "Cefpodoxime",
+    "Clavulanate",
+    "Cefixime",
+    "Ceftriaxone",
+    "Sulbactam",
+    "Amoxycillin",
+    "Cefuroxime",
+    "Ofloxacin",
+    "Ornidazole",
+    "Azithromycin",
+    "Pantoprazole",
+    "Ondansetron",
+    "Simethicone",
+    "Paracetamol",
+    "Aceclofenac",
+    "Serratiopeptidase",
+    "Mefenamic acid",
+    "Ibuprofen",
+    "Montelukast",
+    "Levocetirizine",
+    "Cetirizine",
+    "Ambroxol",
+    "Guaifenesin",
+    "Phenylephrine",
+    "Chlorpheniramine",
+    "Methylcobalamin",
+    "Pyridoxine",
+    "Niacinamide",
+    "Lycopene"
+  ]
 }
